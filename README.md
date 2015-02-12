@@ -1,6 +1,6 @@
 # StringCalcKata
 
-A String Calculator
+A String Calculator kata for use as practice for TDD and Pair Programming.
 
 ## Getting Started
 
